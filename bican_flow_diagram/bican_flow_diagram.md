@@ -5,15 +5,15 @@ The purpose of this diagram is to show how data and materials flow across the BI
 | Node Name       | Definition                                             |
 |----------------|------------------------------------------------------|
 | NBB            | Neuro Bio Bank                                       |
-| IMS            | Information Management Services (https://www.imsweb.com/) |
+| IMS            | [Information Management Services](https://www.imsweb.com) |
 | BICAN Investigator | TODO                                               |
-| Specimen Portal | The Specimen Portal focuses on tissue management from donors to brain slabs and annotated brain samples.|
-| SeqLib Portal | The Sequence Library (SeqLib) Portal manages the workflow starting from tissue, all the way downstream to track data deposition to assay-dependent data-modality-specific archives.|
+| Specimen Portal | The [Specimen Portal](https://brain-specimenportal.org) focuses on tissue management from donors to brain slabs and annotated brain samples.|
+| SeqLib Portal | The [Sequence Library (SeqLib) Portal](https://brain-specimenportal.org) manages the workflow starting from tissue, all the way downstream to track data deposition to assay-dependent data-modality-specific archives.|
 | SeqCores       | TODO                                                 |
-| NeMO           | TODO                                                 |
+| NeMO           | The [Neuroscience Multi-omic Archive (NeMO Archive)](https://nemoarchive.org) is a data repository specifically focused on the storage and dissemination of omic data generated from the BRAIN Initiative, SCORCH consortium and other brain research projects.|
 | Terra Alignment | TODO                                                 |
-| Data Catalog, BICAN Dashboard | TODO                               |
-| Knowledge Base, BICAN Cell Atlas | TODO                           |
+| Data Catalog, BICAN Dashboard | A searchable [data catalog](https://knowledge.brain-map.org/data) listing all public BICCN and BICAN generated data about cell types.|
+| Knowledge Base, BICAN Cell Atlas | The Brain Cell Knowledge Base ingests and standardizes comprehensive cell type information from BICAN's development of a multimodal, multi-species brain cell atlas and disseminate that atlas as an open and interactive community resource for advancing knowledge of the brain.|
 
 # Sequence Diagram
 ```mermaid
